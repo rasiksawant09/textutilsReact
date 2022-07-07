@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Demo Link of the project.
+
+https://rasiksawant09.github.io/textutilsReact/
+
+Click on home if contents are not displayed while viewing live.
+
 ## Available Scripts
 
 In the project directory, you can run:
